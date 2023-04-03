@@ -1,0 +1,20 @@
+{
+  "name": "leanding-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonLee283/leanding-async.git"
+  },
+  "keywords": [],
+  "author": "Brandon Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonLee283/leanding-async/issues"
+  },
+  "homepage": "https://github.com/BrandonLee283/leanding-async#readme"
+}
